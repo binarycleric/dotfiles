@@ -1,0 +1,15 @@
+[submodule "dot-vim"]
+	path = dot-vim
+	url = https://github.com/binarycleric/dot-vim
+[submodule "dot-tmux"]
+	path = dot-tmux
+	url = https://github.com/binarycleric/dot-tmux
+[submodule "dot-lein"]
+	path = dot-lein
+	url = https://github.com/binarycleric/dot-lein
+[submodule "dot-zshrc"]
+	path = dot-zshrc
+	url = https://github.com/binarycleric/dot-zshrc
+[submodule "dot-ackrc"]
+	path = dot-ackrc
+	url = https://github.com/binarycleric/dot-ackrc
