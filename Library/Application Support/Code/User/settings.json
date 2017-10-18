@@ -1,0 +1,46 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 12,
+    "editor.fontFamily": "Hack",
+    "editor.tabSize": 2,
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "solid",
+    "editor.rulers": [80,120],
+
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontFamily": "Hack",
+    "terminal.integrated.scrollback": 10000,
+
+    "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "vs-seti",
+    "window.title": "${rootName} → ${activeEditorMedium}",
+    "window.openFilesInNewWindow": true,
+ //   "workbench.fontAliasing": "antialiased",
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": false,
+    "extensions.ignoreRecommendations": false,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Atom One Dark",
+    "cSpell.enabledLanguageIds": [
+        "c",
+        "cpp",
+        "csharp",
+        "go",
+        "handlebars",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "latex",
+        "markdown",
+        "php",
+        "plaintext",
+        "python",
+        "restructuredtext",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ]
+}
