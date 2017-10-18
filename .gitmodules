@@ -10,9 +10,6 @@
 [submodule "dot-zshrc"]
 	path = dot-zshrc
 	url = https://github.com/binarycleric/dot-zshrc
-[submodule "dot-ackrc"]
-	path = dot-ackrc
-	url = https://github.com/binarycleric/dot-ackrc
 [submodule "dot-git"]
 	path = dot-git
 	url = https://github.com/binarycleric/dot-git.git
